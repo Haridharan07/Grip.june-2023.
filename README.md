@@ -1,11 +1,13 @@
-Score-Prediction
-Predicting the score of the student by number of hours study using Supervised ML Algorithm (Linear Regression)
+# Score-Prediction
 
-Modules Used :
-Numpy
+Predicting the score of the student by number of hours study using **Supervised ML Algorithm (Linear Regression)**
 
-Pandas
+## Modules Used :
 
-Matplotlib
+* Numpy
 
-Scikit-learn (Linear Regression)# Grip-june-2023
+* Pandas
+
+* Matplotlib
+
+* Scikit-learn (Linear Regression)
